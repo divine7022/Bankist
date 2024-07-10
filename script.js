@@ -68,7 +68,7 @@ const account3 = {
 };
 
 const account4 = {
-  owner: 'Jessica Davis',
+  owner: 'Aman Shekhar',
   movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
   interestRate: 1.5,
   pin: 4444,
